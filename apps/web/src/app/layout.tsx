@@ -4,8 +4,8 @@ import "./global.css";
 import { Providers } from "./providers";
 
 export const metadata: Metadata = {
-	title: "Anything App",
-	description: "Created with Anything",
+	title: "PortionPal — Recipe & Serving Scaler",
+	description: "Scale any recipe to your exact serving count. Smart fractions, US & metric units, and one-tap recipe import. Free on Android.",
 	icons: {
 		icon: "/favicon.png",
 	},
